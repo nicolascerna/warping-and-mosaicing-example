@@ -1,5 +1,5 @@
 # warping-and-mosaicing-example
-Python example of warping and mosaizing images using OpenCV
+Python example for warping and mosaizing images using OpenCV
 
 ![jpg](figures/2.jpg)
 ![jpg](figures/1.jpg) 
